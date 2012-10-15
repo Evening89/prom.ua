@@ -1,0 +1,15 @@
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Task - Test registration form.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Task - Test registration form.pdb
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Castle.Core.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Ionic.Zip.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Newtonsoft.Json.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\nunit.framework.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\nunit.mocks.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\pnunit.framework.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\WebDriver.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\bin\Debug\WebDriver.Support.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\obj\Debug\Task - Test registration form.dll
+D:\Мои документы\Visual Studio 2008\Projects\Task - Test registration form\Task - Test registration form\obj\Debug\Task - Test registration form.pdb
